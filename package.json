@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/leebrookdhs/brmdrvschl/issues"
   },
+  "publishConfig": {
+    "@leebrookdhs:registry":"https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/leebrookdhs/brmdrvschl#readme"
+ 
 }
